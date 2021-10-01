@@ -14,6 +14,7 @@
 - [Deeksha Mishra](https://github.com/nkmishra217)
 - [Ashlesha](https://github.com/Ashlesha01)
 - [Monil](https://github.com/monubucky)
+- [Kushagra Bhushan](https://github.com/kushagrabhushan)
 - [Manish Motwani](https://github.com/manishmotwani2002)
 - [Bhavana](https://github.com/Bhavanak021)
 - [Madhaba Patra](https://github.com/MadhabaPatra)
