@@ -18,6 +18,7 @@
 - [Muskan Shaikh](https://github.com/muskanshaikh)
 - [Deeksha Mishra](https://github.com/nkmishra217)
 - [Ashlesha](https://github.com/Ashlesha01)
+- [Sahil Bose](https://github.com/sah16)
 - [Monil](https://github.com/monubucky)
 - [Matteo Vacalebri](https://github.com/thet3o)
 - [Manish Motwani](https://github.com/manishmotwani2002)
