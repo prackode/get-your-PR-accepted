@@ -30,3 +30,4 @@
 - [Aryamaan Thakur](https://github.com/aryamaanthakur)
 - [Rudraneel Dutta](https://github.com/rudraneel18)
 - [Ishan Gupta](https://github.com/ishan-gupt)
+- [Kushagra Bhushan](https://github.com/kushagrabhushan)
