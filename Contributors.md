@@ -1,8 +1,8 @@
 # ⭐ Contributors ⭐
 
 - [Samarjeet Banik](https://github.com/SamarjeetBanik)
-- [Dibyajit Mohanty](https://github.com/Dibyajit-Mohanty)
 - [Madhaba Patra](https://github.com/MadhabaPatra)
+- [Dibyajit Mohanty](https://github.com/Dibyajit-Mohanty)
 - [Sudeep Gangwar](https://github.com/rex2828)
 - [Narayan Soni](https://github.com/narayan954)
 - [Shravya](https://github.com/ShravyaMallya)
@@ -28,3 +28,4 @@
 - [Bhavana Kumari](https://github.com/Bhavanak021)
 - [Aryamaan Thakur](https://github.com/aryamaanthakur)
 - [Rudraneel Dutta](https://github.com/rudraneel18)
+- [Ishan Gupta](https://github.com/ishan-gupt)
